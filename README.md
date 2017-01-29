@@ -10,22 +10,18 @@
 
 ### Theme Installation:
 
-1. Download [FoF.theme.css](https://friends-of-future.com/FoF.theme.css) from releases.
-2. Browse to `%appdata%/BetterDiscord/themes` and paste the downloaded file there.
+1. Télécharger [FoF.theme.css](https://friends-of-future.com/Discord/FoF.theme.rar) .
+2. Allez à `%appdata%/BetterDiscord/themes` et collez le fichier téléchargé dans ce répértoire.
 3. Reload Discord (`Ctrl`+ `R`)
-4. Open settings and click BetterDiscord tab
-5. Click Themes tab on top
+4. Ouvrez les paramètres et cliquez sur l'onglet BetterDiscord
+5. Cliquez sur l'onglet Thèmes en haut
 6. Enable `FoF` theme
-7. Done!
+7. Terminé!
 
-Note: The theme updates itself, so you only have to reload Discord at every update ;)
+Note: Le thème se met à jour, donc il vous suffit de recharger Discord à chaque mise à jour;)
 
 #### **Previews:**
-![Preview-1](http://nirewen.s-ul.eu/gX0Z18Q2.png)
+![Preview-1](https://gyazo.com/f8be43a83f6c8f9a037988e6dfbfeabc)
 
-![Preview-2](http://nirewen.s-ul.eu/Iev6Ieax.png)
+![Preview-2](https://gyazo.com/dc90b80ab4947bd1a2cff3798c0393cd)
 
-![Preview-3](http://nirewen.s-ul.eu/37zYRkYx.png)
-
-![Preview-4](http://nirewen.s-ul.eu/cl07P761.png)
-([Stylish version](https://userstyles.org/styles/126680/discordify) only)
