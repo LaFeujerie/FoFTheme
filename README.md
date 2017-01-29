@@ -21,7 +21,7 @@
 Note: Le thème se met à jour, donc il vous suffit de recharger Discord à chaque mise à jour;)
 
 #### **Previews:**
-![Preview-1](https://gyazo.com/f8be43a83f6c8f9a037988e6dfbfeabc)
+![Preview-1](https://i.gyazo.com/f8be43a83f6c8f9a037988e6dfbfeabc.png)
 
-![Preview-2](https://gyazo.com/dc90b80ab4947bd1a2cff3798c0393cd)
+![Preview-2](https://i.gyazo.com/dc90b80ab4947bd1a2cff3798c0393cd.png)
 
