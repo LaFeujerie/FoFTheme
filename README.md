@@ -4,9 +4,9 @@
 
 ### BetterDiscord Installation:
 
-1. Go to [BetterDiscord's Website](http://betterdiscord.net);
-2. Download it for your OS;
-3. Install.
+1. Allez à [BetterDiscord's Website](http://betterdiscord.net);
+2. Téléchargez-le pour votre système d'exploitation;
+3. Installez.
 
 ### Theme Installation:
 
