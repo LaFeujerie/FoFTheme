@@ -10,7 +10,7 @@
 
 ### Theme Installation:
 
-1. Download [FoF.theme.css](https://github.com/LaFeujerie/FoFTheme/releases/download/v3.0.5/FoF.theme.css) from releases.
+1. Download [FoF.theme.css](https://friends-of-future/FoF.theme.css) from releases.
 2. Browse to `%appdata%/BetterDiscord/themes` and paste the downloaded file there.
 3. Reload Discord (`Ctrl`+ `R`)
 4. Open settings and click BetterDiscord tab
